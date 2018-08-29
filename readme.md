@@ -28,5 +28,6 @@ Description: Create Database, table
 7. open your web browser and type 192.168.10.10 
 If you installed OK, you can see the Task and User Management 
 
-
+8. click register
+At the beginning, there has no users, so you have to register the first user.
 
